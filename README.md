@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![](https://img.shields.io/static/v1?label=&style=flat-square&color=FF9900&message=AWS&logo=amazon-aws&logoColor=white)]()
+[![](https://img.shields.io/static/v1?label=&style=flat-square&color=326CE5&message=Kubernetes&logo=kubernetes&logoColor=white)]()
+[![](https://img.shields.io/static/v1?label=&style=flat-square&color=7B42BC&message=Terraform&logo=terraform&logoColor=white)]()
+[![](https://img.shields.io/static/v1?label=&style=flat-square&color=0F1689&message=Helm&logo=helm&logoColor=white)]()
+[![](https://img.shields.io/static/v1?label=&style=flat-square&color=EE0000&message=Ansible&logo=ansible&logoColor=white)]()
+[![](https://img.shields.io/static/v1?label=&style=flat-square&color=3776AB&message=Python&logo=python&logoColor=white)]()
+[![](https://img.shields.io/static/v1?label=&style=flat-square&color=F7DF1E&message=JavaScript&logo=javascript&logoColor=white)]()
+
 <!--
 **kryptonite303/kryptonite303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
