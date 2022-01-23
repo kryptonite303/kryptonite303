@@ -1,24 +1,20 @@
-### Hi there 👋
+# Hey there 👋
 
-[![](https://img.shields.io/static/v1?label=&style=flat-square&color=FF9900&message=AWS&logo=amazon-aws&logoColor=white)]()
-[![](https://img.shields.io/static/v1?label=&style=flat-square&color=326CE5&message=Kubernetes&logo=kubernetes&logoColor=white)]()
-[![](https://img.shields.io/static/v1?label=&style=flat-square&color=7B42BC&message=Terraform&logo=terraform&logoColor=white)]()
-[![](https://img.shields.io/static/v1?label=&style=flat-square&color=0F1689&message=Helm&logo=helm&logoColor=white)]()
-[![](https://img.shields.io/static/v1?label=&style=flat-square&color=EE0000&message=Ansible&logo=ansible&logoColor=white)]()
-[![](https://img.shields.io/static/v1?label=&style=flat-square&color=3776AB&message=Python&logo=python&logoColor=white)]()
-[![](https://img.shields.io/static/v1?label=&style=flat-square&color=F7DF1E&message=JavaScript&logo=javascript&logoColor=white)]()
+My name is John and I'm a Senior Infrastructure Engineer.
 
-<!--
-**kryptonite303/kryptonite303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies and tools I work with
+[![](https://img.shields.io/static/v1?label=&style=flat-square&logoColor=white&color=FF9900&message=AWS&logo=amazon-aws)]()
+[![](https://img.shields.io/static/v1?label=&style=flat-square&logoColor=white&color=326CE5&message=Kubernetes&logo=kubernetes)]()
+[![](https://img.shields.io/static/v1?label=&style=flat-square&logoColor=white&color=7B42BC&message=Terraform&logo=terraform)]()
+[![](https://img.shields.io/static/v1?label=&style=flat-square&logoColor=white&color=0F1689&message=Helm&logo=helm)]()
+[![](https://img.shields.io/static/v1?label=&style=flat-square&logoColor=white&color=2496ED&message=Docker&logo=Docker)]()
+[![](https://img.shields.io/static/v1?label=&style=flat-square&logoColor=white&color=181717&message=GitHub&logo=github)]()
+[![](https://img.shields.io/static/v1?label=&style=flat-square&logoColor=white&color=343434&message=CircleCI&logo=circleci)]()
+[![](https://img.shields.io/static/v1?label=&style=flat-square&logoColor=white&color=F46800&message=Grafana&logo=grafana)]()
+[![](https://img.shields.io/static/v1?label=&style=flat-square&logoColor=white&color=E6522C&message=Prometheus&logo=prometheus)]()
+[![](https://img.shields.io/static/v1?label=&style=flat-square&logoColor=white&color=EE0000&message=Ansible&logo=ansible)]()
+[![](https://img.shields.io/static/v1?label=&style=flat-square&logoColor=white&color=3776AB&message=Python&logo=python)]()
+[![](https://img.shields.io/static/v1?label=&style=flat-square&logoColor=white&color=F7DF1E&message=JavaScript&logo=javascript)]()
+[![](https://img.shields.io/static/v1?label=&style=flat-square&logoColor=white&color=466BB0&message=Istio&logo=istio)]()
+[![](https://img.shields.io/static/v1?label=&style=flat-square&logoColor=white&color=96060C&message=Pi-hole&logo=pihole)]()
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
